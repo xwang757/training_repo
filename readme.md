@@ -12,4 +12,6 @@ This is chapter 1 added from local computer
 This is chapter 2
 #chapter 3
 
+Added text to Chapter 3
+
 test
