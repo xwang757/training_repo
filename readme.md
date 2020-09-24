@@ -8,6 +8,8 @@ add a line from github
 This is chapter 1 added from local computer
 
 #Chapter 2
+
+This is chapter 2
 #chapter 3
 
 test
